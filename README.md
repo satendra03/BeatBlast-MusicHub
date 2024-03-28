@@ -15,7 +15,7 @@ BeatBlast: Your go-to music hub for discovering, creating, and enjoying your fav
 
 ## Usage
 
-1. Access the music player application hosted on GitHub Pages [here](link-to-your-github-pages).
+1. Access the music player application hosted on GitHub Pages [here](https://satendra03.github.io/BeatBlast-MusicHub/).
 2. Click on the play button to start playing the currently selected song.
 3. Use the next and back buttons to navigate through the playlist.
 4. Click on the search button to search for specific songs by name.
