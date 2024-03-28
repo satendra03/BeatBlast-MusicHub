@@ -164,7 +164,7 @@ let songs = [
     },
 ];
 
-let selectedSong = 0;
+let selectedSong = generateRandomNumber();
 let audio = new Audio();
 
 let playingSong = false;
@@ -538,4 +538,7 @@ function playNextSong() {
         audio.src = songs[selectedSong];
         audio.play();
     });
+};
+function generateRandomNumber() {
+    return Math.floor(Math.random() * 20);
 };
