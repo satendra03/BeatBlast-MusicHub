@@ -6,6 +6,10 @@ This music player, crafted with HTML, CSS, and JavaScript, provides an intuitive
 
 BeatBlast: Your go-to music hub for discovering, creating, and enjoying your favorite beats with ease and style.
 
+## Live
+
+You can visit here : https://beat-blast-music-hub-by-satendra.vercel.app/
+
 ## Features
 
 - Play, pause, skip to the next or previous song.
