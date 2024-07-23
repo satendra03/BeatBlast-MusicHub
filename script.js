@@ -162,6 +162,13 @@ let songs = [
         description:
             "Phir Bhi Tumko Chaahunga is an emotional ballad from the Bollywood movie 'Half Girlfriend', composed by Mithoon. Arijit Singh and Shashaa Tirupati's soulful rendition adds depth and emotion to this poignant track, capturing the intensity and complexity of unrequited love. The song's haunting melody and heartfelt lyrics resonate deeply with listeners, evoking a sense of longing and yearning.",
     },
+    {
+    name: "Dil",
+    artist: "Raghav Chaitanya",
+    album: "https://i.scdn.co/image/ab67616d0000b2736d38100a94298f5ef76e12c5",    url: "./songs/Dil.mp3",
+    description:
+        "Dil is an emotive track from the Bollywood movie 'Ek Villain Returns', beautifully sung by Raghav Chaitanya. This song encapsulates the essence of longing and deep affection through its poignant lyrics and soulful melody. Raghav Chaitanya's heartfelt vocals, combined with the evocative composition, create a touching musical experience that resonates with the listeners' hearts. The music gracefully blends with the narrative of the film, enhancing the emotional depth of the story. Dil, with its stirring lyrics and moving melody, continues to touch the souls of many, making it a memorable addition to the soundtrack of 'Ek Villain Returns'."
+},
 ];
 
 let selectedSong = generateRandomNumber();
